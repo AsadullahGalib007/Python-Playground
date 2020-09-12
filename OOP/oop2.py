@@ -1,3 +1,4 @@
+#Constructor
 class partyAnimal:
 	x = 0
 
@@ -16,3 +17,5 @@ s = partyAnimal("Galib")
 
 # j = partyAnimal("Nobody")
 # j.party()
+
+#Remember: self is the defined class 'partyAnimal' itself   

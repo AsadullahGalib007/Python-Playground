@@ -13,3 +13,5 @@ an.party()
 an.party()
 print(partyAnimal.x)
 print(dir(an))
+
+#Remember: self is the defined class 'partyAnimal' itself
