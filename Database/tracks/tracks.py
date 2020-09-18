@@ -5,7 +5,7 @@ conn = sqlite3.connect('trackdb.sqlite')
 cur = conn.cursor()
 
 # Make some fresh tables using executescript()
-cur.execute('''
+cur.executescript('''
 DROP TABLE IF EXISTS Artist;
 DROP TABLE IF EXISTS Album;
 DROP TABLE IF EXISTS Track;
