@@ -1,0 +1,2 @@
+Translated(src=en, dest=bn, text=আমি তোমায় ভালোবাসি
+আমি আপনাকে ঘৃণা করি, pronunciation=None, extra_data="{'translat...")
